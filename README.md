@@ -1,17 +1,21 @@
 # Hotel Cancellation Predictor
 
 ## Table of Contents
-1. [Description](Description)
-2. [Installing](Installing)
+1. [Intoduction](Introduction)
+2. [
+3. [Installing](Installing)
+4. [Feature Documentations](#FeatureDocumentations)
+## Intoduction
+In the modern hospitality industry, where customer preferences and behaviors are constantly evolving. The ability to anticipate and manage hotel booking cancellations plays a pivotal role in optimizing operations, maximizing revenue, and enhancing customer satisfaction. This predictive capability has the potential to empower hotel management with actionable insights, allowing them to proactively allocate resources, manage inventory, and tailor their strategies to minimize the impact of cancellations. 
 
-## Description
-This is a capstone project I did for the BrainStation Data Science bootcampe. It is a binary classification project for predicting hotel booking cancellations, while incorporating dynamic thresholding to adapt to the seasonality inherent in the hospitality industry. 
+In this project, let's delve into the various stages of this machine learning project, from data collection and preprocessing to model selection, training, and evaluation. I will explore the intricacies of the dataset, the methodologies employed to extract meaningful patterns, and the techniques used to fine-tune my models for optimal performance. Moreover, I will discuss the implications of my findings, the practical applications of the predictive models, and the potential avenues for further research and improvement. finally mapping of the models on business metrics and incorporating dynamic thresholding to adapt to the seasonality inherent in the hospitality industry. I will 
+
 The [original dataset](https://www.sciencedirect.com/science/article/pii/S2352340918315191) was created by the article Hotel Booking Demand Datasets, by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
 
 ## Installing
 
 
-
+<a name="FeatureDocumentations"></a>
 ## Feature Documentations
 - `ADR`: Average Daily Rate (Calculated by dividing the sum of all lodging transactions by the total number of staying nights)
 - `Adults`: Number of adults
