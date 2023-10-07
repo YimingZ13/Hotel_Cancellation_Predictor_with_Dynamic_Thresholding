@@ -6,7 +6,7 @@
 3. [Installing](#Installing)
 4. [Feature Documentations](#FeatureDocumentations)
 5. [Authors](#Authors)
-
+6. [License](#License)
 
 <a name="Introduction"></a>
 ## Introduction
@@ -80,3 +80,9 @@ There are no special packages needed for this project, most of packages come wit
 <a name="Authors"></a>
 ## Authors
 Yiming | [LinkedIn](https://www.linkedin.com/in/yiming-zhao13/)
+
+<a name="License"></a>
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+The project is licensed under the MIT License - see the [LICENSED.md](LICENSE.md) file for details
