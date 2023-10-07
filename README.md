@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Introduction](#Introduction)
-2. [Project Structure](#ProjectStructure)
+2. [File Structure](#FileStructure)
 3. [Installing](#Installing)
 4. [Feature Documentations](#FeatureDocumentations)
 
@@ -14,8 +14,8 @@ Let's delve into the various stages of this machine learning project, from data 
 
 The [original dataset](https://www.sciencedirect.com/science/article/pii/S2352340918315191) was created by the article Hotel Booking Demand Datasets, by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
 
-<a name="ProjectStructure"></a>
-## Project Structure
+<a name="FileStructure"></a>
+## File Structure
 Each of the following project steps is completed in a separate notebook:
 - [Raw Data](https://github.com/YimingZ13/Hotel_cancellation_predictor_with_dynamic_thresholding/blob/main/hotel_bookings.csv): `hotel_bookings.csv`
 - [Data Cleaning](): `hotel_cleaning.ipynb`
