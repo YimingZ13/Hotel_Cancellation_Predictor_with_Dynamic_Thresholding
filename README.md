@@ -5,6 +5,8 @@
 2. [File Structure](#FileStructure)
 3. [Installing](#Installing)
 4. [Feature Documentations](#FeatureDocumentations)
+5. [Authors](#Authors)
+
 
 <a name="Introduction"></a>
 ## Introduction
@@ -74,3 +76,7 @@ There are no special packages needed for this project, most of packages come wit
 - `StaysInWeekendNights`: Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel	(Calculated by counting the number of weekend nights from the total number of nights)
 - `StaysInWeekNights`: Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel	(Calculated by counting the number of week nights from the total number of nights)
 - `TotalOfSpecialRequests`: Number of special requests made by the customer (e.g. twin bed or high floor)
+
+<a name="Authors"></a>
+## Authors
+Yiming | [LinkedIn](https://www.linkedin.com/in/yiming-zhao13/)
