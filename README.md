@@ -17,7 +17,7 @@ The [original dataset](https://www.sciencedirect.com/science/article/pii/S235234
 <a name="ProjectStructure"></a>
 ## Project Structure
 Each of the following project steps is completed in a separate notebook:
-- [Raw Data](https://www.sciencedirect.com/science/article/pii/S2352340918315191): `hotel_bookings.csv`
+- [Raw Data](https://github.com/YimingZ13/Hotel_cancellation_predictor_with_dynamic_thresholding/blob/main/hotel_bookings.csv): `hotel_bookings.csv`
 - [Data Cleaning](): `hotel_cleaning.ipynb`
 - [Exploratory Analysis](): `hotel_eda.ipynb`
 - [Data Preprocessing](): `hotel_preprocessing.ipynb`
