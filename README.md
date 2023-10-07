@@ -85,4 +85,4 @@ Yiming | [LinkedIn](https://www.linkedin.com/in/yiming-zhao13/)
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The project is licensed under the MIT License - see the [LICENSED.md](LICENSE.md) file for details
+The project is licensed under the MIT License - see the [LICENSED.md](LICENSE) file for details
