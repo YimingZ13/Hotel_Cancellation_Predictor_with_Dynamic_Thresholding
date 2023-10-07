@@ -25,6 +25,7 @@ Each of the following project steps is completed in a separate notebook:
 
 <a name="Installing"></a>
 ## Installing
+There are no special packages needed for this project, most of packages come with the Anaconda distributiion of Python 3, but [here](https://github.com/YimingZ13/Hotel_cancellation_predictor_with_dynamic_thresholding/blob/main/environment.yml) is the python environment I used. You can download it for your convenience.
 
 <a name="FeatureDocumentations"></a>
 ## Feature Documentations
