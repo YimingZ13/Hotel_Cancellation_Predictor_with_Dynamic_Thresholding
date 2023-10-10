@@ -20,10 +20,11 @@ The [original dataset](https://www.sciencedirect.com/science/article/pii/S235234
 ## File Structure
 Each of the following project steps is completed in a separate notebook:
 - [Raw Data](https://github.com/YimingZ13/Hotel_cancellation_predictor_with_dynamic_thresholding/blob/main/hotel_bookings.csv): `hotel_bookings.csv`
-- [Data Cleaning](): `hotel_cleaning.ipynb`
+- [Data Cleaning](https://github.com/YimingZ13/Hotel_cancellation_predictor_with_dynamic_thresholding/blob/main/hotel_cleaning.ipynb): `hotel_cleaning.ipynb`
 - [Exploratory Analysis](): `hotel_eda.ipynb`
 - [Data Preprocessing](): `hotel_preprocessing.ipynb`
 - [Modelling](): `hotel_modelling.ipynb`
+- [Dynamic Thresholding](): `dynamic_thresholding.pdf`
 
 <a name="Installing"></a>
 ## Installing
