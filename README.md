@@ -81,8 +81,12 @@ There are no special packages needed for this project, most of packages come wit
 
 <a name="KeyResults"></a>
 ## Key Results
-- CatBoost is the best performing model yielded 84.24% accuracy, 81.65% recall, 67.71% precision, and 74.03% F1 score on the test set.
-- After optimizing predicting threshold, the model's precision increased to 68.72%, and recall decreased to 80.36%. The model's ability to accurately predict actual canceled bookings decreased by 62 instances, but it has become significantly more reliable in avoiding misclassifying non-canceled bookings as canceled, with a reduction of 113 such instances. It's a favorable trade-off in performance.
+- CatBoost is the best performing model yielded 84.24% accuracy, 81.65% recall, 67.71% precision, and 74.03% F1 score on the test set
+- `Country Portugal` is the most predictive features for the model, as we saw in the EDA, guests who are from Portugal most likely to cancel their bookings
+- Guests who made `car parking and special requests` and `specal requests` are least likely to cancel
+- Longer `lead_time` result in higher cancel chance
+- `Agent 9` has the lowest success rate of retaining the bookings
+- After optimizing predicting threshold, the model's precision increased to 68.72%, and recall decreased to 80.36%. The model's ability to accurately predict actual canceled bookings decreased by 62 instances, but it has become significantly more reliable in avoiding misclassifying non-canceled bookings as canceled, with a reduction of 113 such instances. It's a favorable trade-off in performance
 
 <a name="Authors"></a>
 ## Authors
