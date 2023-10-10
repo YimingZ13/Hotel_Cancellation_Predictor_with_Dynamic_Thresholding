@@ -79,7 +79,7 @@ There are no special packages needed for this project, most of packages come wit
 
 <a name="Authors"></a>
 ## Authors
-Yiming | [LinkedIn](https://www.linkedin.com/in/yiming-zhao13/)
+Yiming Zhao | [LinkedIn](https://www.linkedin.com/in/yiming-zhao13/)
 
 <a name="License"></a>
 ## License
