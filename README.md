@@ -5,8 +5,9 @@
 2. [File Structure](#FileStructure)
 3. [Installing](#Installing)
 4. [Feature Documentations](#FeatureDocumentations)
-5. [Authors](#Authors)
-6. [License](#License)
+5. [Key Results](#KeyResults)
+6. [Authors](#Authors)
+7. [License](#License)
 
 <a name="Introduction"></a>
 ## Introduction
@@ -21,10 +22,10 @@ The [original dataset](https://www.sciencedirect.com/science/article/pii/S235234
 Each of the following project steps is completed in a separate notebook:
 - [Raw Data](https://github.com/YimingZ13/Hotel_cancellation_predictor_with_dynamic_thresholding/blob/main/hotel_bookings.csv): `hotel_bookings.csv`
 - [Data Cleaning](https://github.com/YimingZ13/Hotel_cancellation_predictor_with_dynamic_thresholding/blob/main/hotel_cleaning.ipynb): `hotel_cleaning.ipynb`
-- [Exploratory Analysis](): `hotel_eda.ipynb`
-- [Data Preprocessing](): `hotel_preprocessing.ipynb`
-- [Modelling](): `hotel_modelling.ipynb`
-- [Dynamic Thresholding](): `dynamic_thresholding.pdf`
+- [Exploratory Analysis](https://github.com/YimingZ13/Hotel_cancellation_predictor_with_dynamic_thresholding/blob/main/hotel_eda.ipynb): `hotel_eda.ipynb`
+- [Data Preprocessing](https://github.com/YimingZ13/Hotel_cancellation_predictor_with_dynamic_thresholding/blob/main/hotel_preprocessing.ipynb): `hotel_preprocessing.ipynb`
+- [Modelling](https://github.com/YimingZ13/Hotel_cancellation_predictor_with_dynamic_thresholding/blob/main/hotel_modelling.ipynb): `hotel_modelling.ipynb`
+- [Dynamic Thresholding](https://github.com/YimingZ13/Hotel_cancellation_predictor_with_dynamic_thresholding/blob/main/dynamic_thresholding.pdf): `dynamic_thresholding.pdf`
 
 <a name="Installing"></a>
 ## Installing
@@ -77,6 +78,9 @@ There are no special packages needed for this project, most of packages come wit
 - `StaysInWeekendNights`: Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel	(Calculated by counting the number of weekend nights from the total number of nights)
 - `StaysInWeekNights`: Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel	(Calculated by counting the number of week nights from the total number of nights)
 - `TotalOfSpecialRequests`: Number of special requests made by the customer (e.g. twin bed or high floor)
+
+<a name="KeyResults"></a>
+## Key Results
 
 <a name="Authors"></a>
 ## Authors
